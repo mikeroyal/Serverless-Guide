@@ -6,9 +6,16 @@
 
 #### A guide covering Serverless architecture including the applications, libraries and tools that will make you a better and more efficient developer with Serverless.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123559865-88a98300-d753-11eb-8e59-dca20a8a9082.png">
+  <br />
+</p>
 
-[Serverless Framework](https://www.serverless.com/) is an open-source web framework written using Node.js. used for building applications on [AWS Lambda](https://aws.amazon.com/lambda/). The framework gives developers, teams and companies all of the tools they need to build and operate serverless applications, in one simple, powerful and elegant experience.
+# Serverless Learning Resources
+
+[Serverless Framework](https://www.serverless.com/) is an open-source web framework written using [Node.js](https://nodejs.org/). used for building applications on [AWS Lambda](https://aws.amazon.com/lambda/). The framework gives developers, teams and companies all of the tools they need to build and operate serverless applications, in one simple, powerful and elegant experience.
 
 [Serverless Courses & Training](https://www.serverless.com/learn/)
 
@@ -64,7 +71,7 @@
 
 [Configuring Serverless Computing in Microsoft Azure on Pluralsight](https://www.pluralsight.com/courses/microsoft-azure-serverless-computing-configuring)
 
-## Tools
+# Serverless Tools and Frameworks
 
 [AWS CLI](https://aws.amazon.com/cli/) is a unified command line tool to manage your AWS (Amazon Web Services) services.
 
@@ -140,3 +147,12 @@ automatically discovers the right configuration for your services.
 [Micronaut](https://micronaut.io/) is a modern, JVM-based, full stack Java framework designed for building modular, easily testable JVM applications with support for Java, Kotlin and the Groovy language.
 
 [Cube.js](https://github.com/cube-js/cube.js) is an open-source analytical API platform. It is primarily used to build internal business intelligence tools or add customer-facing analytics to existing applications.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Serverless-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
